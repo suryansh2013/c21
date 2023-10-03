@@ -1,0 +1,44 @@
+body{
+    background-color: greenyellow;
+}
+.test_image_and_result{
+    border-radius: 20px;
+    background-color: aquamarine;
+    margin-bottom: 50px;
+    box-shadow: 5px 5px 5px skyblue;
+}
+.mini_result{
+    margin-top: 10px;
+    font-weight: 600;
+    color: blue;
+}
+.test_image_and_result h5{
+    border-radius: 40px;
+    background-color: blue;
+    color: rgb(255, 255, 255);
+    padding: 5px;
+}
+.test_image_and_result h5 b{
+    color: aquamarine;
+}
+.test_image_and_result h5 span{
+    font-weight: bolder;
+    color: cyan;
+}
+.final_conclusion{
+    border: 5px solid blue;
+    background-color: cyan;
+    padding: 5px;
+    margin: 50px;
+    border-radius: 33px;
+}
+#footer{
+    position: fixed;
+    line-height: 3;
+    width: 100%;
+    bottom: 0;
+    box-shadow: 5px 5px 5px lightgreen;
+    background-color: green;
+    color: greenyellow;
+    text-align: center;
+}
